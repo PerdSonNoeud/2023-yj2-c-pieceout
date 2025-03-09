@@ -1,8 +1,7 @@
 # Piece out
 
 ## Description
-l2 Licence Informatique Projet de programmation (IF14Y010) 
-Groupe YJ2-C
+L2 Licence Informatique - Projet de programmation (IF14Y010) - Groupe YJ2-C
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -17,9 +16,8 @@ Groupe YJ2-C
 
 ### Clone the project repository OR download
 ```
-git clone https://gaufre.informatique.univ-paris-diderot.fr/beales/2023-yj2-c-pieceout.git
+git clone https://github.com/PerdSonNoeud/2023-yj2-c-pieceout.git
 ``` 
-Or download the project from moodle and extract 
 
 ### Compile project
 ```
